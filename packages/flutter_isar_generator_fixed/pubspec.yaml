@@ -34,10 +34,10 @@ dependencies:
 
   # https://pub.dev/packages/analyzer
   # https://pub.dev/packages/pub_semver
-  analyzer: ^8.1.1
+  analyzer: ^7.7.1
 
   # https://pub.dev/packages/dart_style
-  dart_style: ^3.1.2
+  dart_style: ^3.0.0
   # https://pub.dev/packages/dartx
   dartx: ^1.2.0
   # https://pub.dev/packages/xxh3
